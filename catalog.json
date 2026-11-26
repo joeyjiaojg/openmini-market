@@ -1,0 +1,94 @@
+{
+  "name": "小盒子应用市场",
+  "repo": "joeyjiaojg/openmini-market",
+  "updated": "2026-11-26",
+  "note": "所有包同时作为本仓库 Release assets 发布；国内请用 https://gh-proxy.org/ 前缀下载。含第三方音源接口的应用不在本仓库分发。",
+  "apps": [
+    {
+      "id": "mahjong",
+      "name": "血战到底",
+      "version": "3.1.1",
+      "versionCode": 33,
+      "file": "mahjong-v3.1.1.zip",
+      "category": "游戏",
+      "icon": "麻",
+      "desc": "四川血战到底：108张牌·缺一门·不能吃·横屏大牌桌·碰杠胡大按钮·庄家与出牌标识",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "xiangqi",
+      "name": "楚汉象棋",
+      "version": "1.9.0",
+      "versionCode": 10,
+      "file": "xiangqi-v1.9.0.zip",
+      "category": "游戏",
+      "icon": "棋",
+      "desc": "楚汉象棋 · 宗师/棋圣AI · 可配置步数上限"
+    },
+    {
+      "id": "wordbuddy",
+      "name": "WordBuddy 背单词",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "file": "wordbuddy-v1.0.0.zip",
+      "category": "学习",
+      "icon": "词",
+      "desc": "分组背单词 · SM-2复习 · 7105词 · 双语故事"
+    },
+    {
+      "id": "gomoku",
+      "name": "五子棋",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "file": "gomoku-v1.0.0.zip",
+      "category": "游戏",
+      "icon": "五",
+      "desc": "横屏大棋盘人机对战，三档AI难度、悔棋、落子提示、胜负统计",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "sudoku",
+      "name": "数独",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "file": "sudoku-v1.0.0.zip",
+      "category": "游戏",
+      "icon": "数",
+      "desc": "横屏九宫格数独，四档难度、唯一解题目、笔记模式、错误提示与计时",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "point24",
+      "name": "24点",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "file": "point24-v1.0.0.zip",
+      "category": "游戏",
+      "icon": "24",
+      "desc": "四张牌算24，保证有解、表达式校验、计时挑战、三档难度、求解提示",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "news",
+      "name": "每日资讯",
+      "version": "1.2.4",
+      "versionCode": 7,
+      "file": "news-v1.2.4.zip",
+      "category": "资讯",
+      "icon": "资",
+      "desc": "竖屏资讯：速览(国内外15条)、国内科技、中新网财经、AI、Hacker News全球科技；左右滑动切换栏目、标题最长3行（字号放大仍生效）、窄屏刷新按钮不溢出、内置阅读面板、多镜像切换、离线缓存",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "metronome",
+      "name": "节拍器",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "file": "metronome-v1.0.0.zip",
+      "category": "工具",
+      "icon": "节",
+      "desc": "竖屏精准节拍器：Web Audio采样级计时、2/4~6/8拍号、四分~十六分细分、滴/木鱼/铃三种音色、敲拍测速与节拍灯光",
+      "updated": "2026-11-26"
+    }
+  ]
+}
